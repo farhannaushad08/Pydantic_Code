@@ -62,7 +62,7 @@ The code is beginner-friendly and demonstrates:
 
 ## 🙌 Author
 
-**Farhan Naushad**  
+**Md Farhan Naushad**  
 🔗 [GitHub Profile](https://github.com/farhannaushad08)
 
 ---
